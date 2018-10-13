@@ -2,8 +2,7 @@
     "name": "magteric/module-cloudflare-cache",
     "description": "A CloudFlare cache manager to view and purge static content",
     "require": {
-        "php": "~7.0.13|~7.1.0",
-        "magento/framework": "101.0.*",
+        "magento/framework": "101.0.*"
     },
     "type": "magento2-module",
     "version": "0.1.0",
