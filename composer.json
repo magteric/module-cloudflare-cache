@@ -1,6 +1,6 @@
 {
     "name": "magteric/module-cloudflare-cache",
-    "description": "A CloudFlare cache manager to view and purge static content",
+    "description": "A Cloudflare cache manager to view and purge static content",
     "require": {
         "magento/framework": "101.0.*"
     },
